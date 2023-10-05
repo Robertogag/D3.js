@@ -33,3 +33,7 @@ En este repositorio, encontrarás ejemplos y proyectos de visualizaciones de dat
 ## Comienza a Visualizar
 
 ¿Listo para dar vida a tus datos? ¡Explora el mundo de las visualizaciones con D3.js y crea representaciones visuales impactantes de tus datos!
+
+## Redes Sociales 🌐
+¡Conéctate conmigo en LinkedIn para mantenernos en contacto y aprender juntos!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Roberto%20Garc%C3%ADa%20G%C3%B3mez-blue)](https://www.linkedin.com/in/juan-roberto-garc%C3%ADa-g%C3%B3mez-41880b200/)
