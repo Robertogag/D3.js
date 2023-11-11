@@ -26,14 +26,6 @@ D3.js proporciona las herramientas necesarias para:
 
 ![Ejemplo de Visualización D3.js](https://pymstatic.com/9270/conversions/tipos-de-graficas-wide_webp.webp)
 
-## ¿Cómo Utilizar este Repositorio?
-
-En este repositorio, encontrarás ejemplos y proyectos de visualizaciones de datos creados con D3.js. Explora los diferentes directorios para ver las visualizaciones en acción y aprende cómo puedes aplicar D3.js en tus propios proyectos.
-
-## Comienza a Visualizar
-
-¿Listo para dar vida a tus datos? ¡Explora el mundo de las visualizaciones con D3.js y crea representaciones visuales impactantes de tus datos!
-
 ## Redes Sociales 🌐
 ¡Conéctate conmigo en LinkedIn para mantenernos en contacto y aprender juntos!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Roberto%20Garc%C3%ADa%20G%C3%B3mez-blue)](https://www.linkedin.com/in/juan-roberto-garc%C3%ADa-g%C3%B3mez-41880b200/)
